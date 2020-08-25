@@ -1,6 +1,6 @@
 ## Infografía Digital v1
 
-### Clase 01 → Lunes 10 de agosto, 2020
+### Clase 03 → Lunes 24 de agosto, 2020
 
 Las primeras tres clases de este Optativo se dividen en:
 
@@ -10,75 +10,75 @@ Las primeras tres clases de este Optativo se dividen en:
 
 - **Referente…** 1. adj. Que refiere o que expresa relación a algo.
 
-En estas tres primeras clase tendrán que usar GitHub y algún editor de código fuente para resolver un ejercicio (todo esto se describe a continuación). 
+En las tres primeras clase tendrán que usar GitHub y algún editor de código fuente para resolver un ejercicio. 
 
-En esta primera clase, de "**Precedentes: Del texto iluminado al diseño de información**", se consulta la siguiente bibliografía:
+En esta tercera clase, de "[**Referentes: Desarrollo del visual storytelling desde el periodismo digital**](https://docs.google.com/presentation/d/1uhVJ5yPBLYs2fhfUgFzAL6jVCcTt6ZYf1AXTObZgAJc/edit?usp=sharing)", se consultan los siguientes recursos: 
  
-- Cairo, A. (2017). *NERD journalism. How Data and Digital Technology Transformed News Graphics*. Barcelona: Universitat Oberta de Catalunya.
+- Austin, T. & Doust, R. (2008). *Diseño de nuevos medios de comunicación*. Barcelona: Blume.
 
-- Casanueva, M. & Bolaños, B. (2009). *El giro pictórico: Epistemología de la Imagen*. Barcelona: Anthropos Editorial. 
+- García, Mario R. (1998). *Tendencias en comunicación periodística visual*. Revista Latina de Comunicación Social, 3: http://www.revistalatinacs.org/z8/marz98.mario.htm
 
-- Chiuminatto, P. (2013). *René Descartes. El método de las figuras. Imaginario visual e ilustración científica*. Santiago de Chile: Orjikh editores limitada.
+- SND 2020 Virtual Conference – Newsrooms and Beyond: https://www.snd.org/dc2020/
 
-- - - - - - - 
-
-#### Github
-
-Es una plataforma de desarrollo colaborativo que utiliza el sistema de control de versiones [Git](https://git-scm.com/). Con el trabajo en repositorios, se puede llevar registro de cambios en archivos compartidos.
-
-Cada estudiante en Infografía Digital debe tener [su cuenta en GitHub](https://github.com/join).
-
-Una vez creada la cuenta, es necesario crear un primer repositorio con GitHub: 
-
-- En la página de "Repositories" encontrarás un botón verde, que dice "New". Presiona ese botón. Eso te llevará a una nueva página, donde tienes que escribir un "Repository name", evita que ese nombre tenga tildes o acentos, y prefiere usar una única palabra (si necesitas usar dos o más palabras, usa guión entre ellas). GitHub revisará si puedes usar el nombre ingresado, y te dará un ticket verde cuando sí se pueda. Por ahora puedes saltarte la "Description". Luego tienes que dejar seleccionada la opción "Public" y **tienes marcar un ticket en la opción de "Initialize this repository with a README"**. Para terminar, dale click al botón verde de "Create repository".
-
-- Si en tu repositorio de GitHub subes un sitio web, con su correspondiente documento `index.html`, bien puedes hacer que este sitio quede publicado en la Web, en una dirección a la que cualquier persona podría acceder. Esto lo puedes hacer si es que aprovechas el servicio de [Github Pages](https://help.github.com/articles/what-is-github-pages/). 
-
-Dos referencias que les podrían ser útiles ahora: 
-
-- [¿Cómo se utiliza Github pages?](https://developer.mozilla.org/es/docs/Learn/Using_Github_pages)
-
-- [Daniel Shiffman explica en YouTube como configurar una GitHub Page](https://youtu.be/bFVtrlyH-kc)
-
-Y una que será útil más adelante: 
-
-- [Configurar GitHub Pages para usar dominios.cl](https://medium.com/@ggerena/configurar-github-pages-para-usar-dominios-cl-13c1a644699f)
-
-- - - - - - - 
-
-#### Coding (descripción v/s programación)
-
-Cuando trabajamos con código fuente podemos describir o programar. **[HTML](https://github.com/profesorfaco/dno075-2020/wiki/HTML) y [CSS](https://github.com/profesorfaco/dno075-2020/wiki/CSS) no son lenguajes de programación**. [JavaScript](https://github.com/profesorfaco/dno075-2020/wiki/JavaScript), Phyton, Ruby, PHP sí lo son; con estos últimos sí se programa.
-
-Si esta es la primera vez que utilizarás HTML y CSS para describir, y JavaScript para programar: Te vendría bien [revisar el Wiki de este repositorio](https://github.com/profesorfaco/dno075-2020/wiki).
-
-Para describir o programar, necesitamos editores de código fuente. Se recomienda usar:  
-
-- [Atom.io](https://atom.io/) - Editor de texto multiplataforma (Windows, Linux, and Mac), libre y open-source, desarrollado por los creadores de GitHub. 
-
-- [Sublime Text](https://www.sublimetext.com/) - Editor de texto privativo, cuya versión de evaluación es plenamente funcional y no tiene fecha de caducidad. 
-
-- [Brakets](http://brackets.io/) - Editor de texto open-source para desarrolladores FrontEnd que trabajen con HTML, CSS y JavaScript.
-
-El listado está organizado según preferencia; prefiera el primero, si no puede obtenerlo, vaya por el segundo; en caso que el primero y segundo fallen, vaya por el tercero.
+- The Eyeo Festival (2011-2020): http://eyeofestival.com/
 
 - - - - - - - 
 
 #### Ejercicio
 
-Para identificar ejemplos de lo que se aborda en la clase, cada estudiante debe seleccionar de 6 a 10 imágenes, las que debe reunir bajo un título original, y ofrecer un texto breve de no más de 200 palabras para darles un hilo conductor; se espera que las imágenes guarden relación entre sí, y que se indique la fuente de origen de cada una de ellas.
+Tal como en las clases anteriores, vamos a preparar una página web, que mantiene la estructura de [HTML](https://github.com/profesorfaco/dno075-2020/wiki/HTML), con variaciones de [CSS](https://github.com/profesorfaco/dno075-2020/wiki/CSS), y la adición de una librería de [JavaScript](https://github.com/profesorfaco/dno075-2020/wiki/JavaScript). Cada estudiante tendrá que preparar una página sobre un referente, [el que debe informar previamente](https://docs.google.com/spreadsheets/d/19ML53DbFRYwhlO7iK0WV0oXUAt_Np4wDj4BaRuVSp-8/edit?usp=sharing), para evitar repeticiones. 
 
-En lo que escribas, prefiera cumplir con estas recomendaciones: 
+Para presentar a tu referente, destacada/o en el desarrollo de la infografía digital, debes seleccionar de 6 a 10 imágenes y preparar un texto breve como reseña biográfica, con énfasis en su trayectoria profesional.
+
+En lo que escribas, prefiere seguir las siguientes recomendaciones: 
 
 - https://www.nngroup.com/videos/biggest-mistake-writing-web/
 
 - https://www.nngroup.com/videos/plain-language-for-experts/
 
-**La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, [y aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2020/clase-01/)**.
+- https://www.nngroup.com/articles/be-succinct-writing-for-the-web/
 
-Este podría ser tu primer trabajo de *coding* ¡Pero no desesperes! Sigue las instrucciones: haz los reemplazos donde se indique. Puedes solicitar ayuda a compañeras/os que hayan aprobado el Optativo de [Diseño y Nuevos Medios](https://github.com/profesorfaco/dno037-2020/). Si necesita ayuda de los profesores o ayudante, debes tener tu trabajo en un repositorio.
+En esta ocasión, te recomendamos poner especial atención al pie de página; ideal sería avanzar a una descripción analítica, en términos visuales, de cada trabajo seleccionado. Al finalizar la clase esa descripción podría ser breve. Más tarde podrías extenderla, según indicaciones que se compartirán en el cierre de la sesión.
+
+La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2020/clase-03/) de repositorio.
+
+| Nro.  | Nombre | Referente | GitHub Page |
+|:-----:|:-------|:----------|:-----|
+| 1 | Rosario Acha | … | … |
+| 2 | Antonia Adell | … | … |
+| 3 | Ignacio Agurto | … | … |
+| 4 | Francisco Álvarez | … | … |
+| 5 | Carolina Aranibar | … | … |
+| 6 | Silvio Arribas | … | … |
+| 7 | Isabella Cabrera | … | … |
+| 8 | Dessiree Cifuentes | … | … |
+| 9 | Debi Codriansky | … | … |
+| 10 | Erika Contreras | … | … |
+| 11 | María José Coudeu | … | … |
+| 12 | Valy Cummings | … | … |
+| 13 | Catalina Escudero | … | … |
+| 14 | Olga F. Vio | … | … |
+| 15 | Fernando Gajardo | … | … |
+| 16 | Javiera González | … | … |
+| 17 | María Fernanda Herández | … | … |
+| 18 | Antonia Lasen | … | … |
+| 19 | Sofía Lira | … | … |
+| 20 | Javiera Maechtig | … | … |
+| 21 | Karla Mancini | … | … |
+| 22 | Karina Melani | … | … |
+| 23 | Muriel Muñoz | … | … |
+| 24 | Rosario Olivares | … | … |
+| 25 | Joaquín Olmedo | … | … |
+| 26 | Francisco Pezoa | … | … |
+| 27 | Daniela Quinteros | … | … |
+| 28 | Isidora Ravera | … | … |
+| 29 | Esperanza Ríos | … | … |
+| 30 | Pilar Saavedra | … | … |
+| 31 | David Sánchez | … | … |
+| 32 | Josefina Stückrath | … | … |
+| 33 | Paula Trujillo | … | … |
+| 34 | Rosario Valdés | … | … |
+| 35 | Catalina Vidal | … | … |
 
 
 - - - - - - - 
-
-###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-02)
